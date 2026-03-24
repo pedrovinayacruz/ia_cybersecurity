@@ -7,10 +7,10 @@
 - Puesto actual: Team Leader SOC.
 - Años de experiencia: 3 años.
 - Motivaciones:
-    - Aprendizaje continua.
-    - Data Analytics aplicado a ciberseguridad.
+    - Aprendizaje continuo dentro del campo de la ciberseguridad.
+    - Aplicar la analitica de datos a la ciberseguridad.
     - Ciencia de datos.
-    - Inteligencia de amenazas
-    - Ser mejor día con día.
+    - Inteligencia de amenazas.
+    - Y ser mejor día con día.
 
     
